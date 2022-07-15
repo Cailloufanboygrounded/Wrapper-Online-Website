@@ -5,7 +5,7 @@ This is a Goanimate Legacy Video Maker Remake built in [Node.js](https://nodejs.
 If you want too edit the Asset Server, then click [here](https://github.com/2Epik4u/Wrapper-Online-Assets).
 
 # Start
-Run the [start.bat](https://github.com/CrashEnterminate/Wrapper-Online/blob/master/start.bat) to start.
+Run the [start.bat](https://github.com/Crashenterminate/WrapperOnline/blob/master/start.bat) to start.
 For macos run [start.sh](https://github.com/Crashenterminate/WrapperOnline/blob/master/start.sh)
 
 # Closing of wrapper online
